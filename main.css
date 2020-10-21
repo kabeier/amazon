@@ -1,0 +1,157 @@
+a:link#subbut {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:visited#subbut {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover#subbut {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:active#create {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:link#create {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:visited#create {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover#create {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:active#create {
+    color: #000000;
+    text-decoration: none;
+}
+
+.col-md-3#login {
+    outline-width: .5px;
+    outline-style: solid;
+    outline-color: #e6e1e134;
+}
+
+#help {
+    color: blue;
+    font-size: 10;
+}
+
+.gradient-button {
+    margin: 10px;
+    font-family: "Arial", Gadget, sans-serif;
+    font-size: 12px;
+    padding: 0px;
+    text-align: center;
+    text-transform: none;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: #000000;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 8px;
+    width: 97%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 5px;
+    background: #FFFFCD;
+    background: -moz-linear-gradient(top, #FAECC8 0%, #F4D17B 53%, #F0C14C 100%);
+    background: -webkit-linear-gradient(top, #FAECC8 0%, #F4D17B 53%, #F0C14C 100%);
+    background: linear-gradient(to bottom, #FAECC8 0%, #F4D17B 53%, #F0C14C 100%);
+}
+
+.gradient-button2 {
+    margin: 10px;
+    font-family: "Arial", Gadget, sans-serif;
+    font-size: 12px;
+    padding: 0px;
+    text-align: center;
+    text-transform: none;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: #000000;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 8px;
+    width: 100%;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 5px;
+    background: #ebe7e4;
+    background: -moz-linear-gradient(top, #ebe7e4 0%, #dbd8d5 53%, #ccc9c6 100%);
+    background: -webkit-linear-gradient(top, #ebe7e4 0%, #dbd8d5 53%, #ccc9c6 100%);
+    background: linear-gradient(to bottom, #ebe7e4 0%, #dbd8d5 53%, #ccc9c6 100%);
+}
+
+.gradient-area {
+    background-size: 200% auto;
+    height: 8px;
+    width: 100%;
+    cursor: arrow;
+    display: inline-block;
+    background: #aaa9a93f;
+    background: -moz-linear-gradient(top, #aaa9a93f 0%, #A2A2A2 9%, #FFFFFF 100%);
+    background: -webkit-linear-gradient(top, #aaa9a93f 0%, #A2A2A2 9%, #FFFFFF 100%);
+    background: linear-gradient(to bottom, #aaa9a93f 0%, #A2A2A2 9%, #FFFFFF 100%);
+}
+
+.gradient-area2 {
+    background-size: 200% auto;
+    height: 2px;
+    width: 100%;
+    cursor: arrow;
+    display: inline-block;
+    background: #aaa9a93f;
+    background: -moz-linear-gradient(top, #aaa9a93f 0%, #A2A2A2 9%, #FFFFFF 100%);
+    background: -webkit-linear-gradient(top, #aaa9a93f 0%, #A2A2A2 9%, #FFFFFF 100%);
+    background: linear-gradient(to bottom, #aaa9a93f 0%, #A2A2A2 9%, #FFFFFF 100%);
+}
+
+.gradient-button-1:hover {
+    background-position: right center;
+}
+
+#ebox {
+    font-weight: bolder;
+    font-size: 10;
+}
+
+#under {
+    font-size: 10;
+}
+
+#tiny {
+    font-size: 8;
+}
+
+#copyright {
+    font-size: 8;
+}
+
+#login {
+    font-weight: bold;
+}
+
+#new {
+    font-size: 10;
+    color: lightgrey;
+}
+
+#dd {
+    color: black;
+    font-size: 8pt;
+}
